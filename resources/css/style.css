@@ -1,0 +1,90 @@
+html {
+
+}
+
+body {
+  background-color: #aeb8ef;
+  color: #1A3A76;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+.sticky-top {
+  background-color: #aeb8ef;
+  font-weight: bold;
+}
+
+#logo_img {
+  height: 4rem;
+  width: 4rem;
+}
+
+#jumbotron_image {
+  border-radius: 50%;
+}
+
+#jumbotron_text {
+  text-align: center;
+}
+
+.jumbotron {
+  background-color: rgba(243, 253, 129, 0.76);
+}
+.workType {
+  text-align: left;
+  padding-left: 3rem;
+}
+#map_image {
+  height: 15rem;
+  width: 22rem;
+}
+
+.info {
+  padding-top: 3%;
+}
+
+.info p {
+  padding-top: 2rem;
+  font-size: 1.3rem;
+}
+
+#price, #price li {
+  text-align: left;
+  padding: 1% 3% 1% 5%;
+}
+#price h2, #price h3{
+  padding-top: 5%;
+}
+
+#zem_codex, #normy_predostavleniya, #my_contacts, #price {
+  background-color: rgba(243, 253, 129, 0.76);
+}
+
+.zakony {
+  padding: 2% 5% 1% 5%;
+}
+
+.vidergki {
+  padding-left: 5%;
+  font-weight: bold;
+}
+
+#normy_predostavleniya ul li{
+  padding: 3%;
+}
+
+th {
+  font-weight: bold;
+}
+td, th {
+    border: 1px solid #1A3A76;
+    padding: 1.5%;
+}
+#price h2 {
+  text-align: center;
+}
+
+.card {
+  background-color: rgba(243, 253, 129, 0.76);
+  border: none;
+  margin-top: 3%;
+}

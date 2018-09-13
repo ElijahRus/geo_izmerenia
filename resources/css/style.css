@@ -55,7 +55,7 @@ body {
   padding-top: 5%;
 }
 
-#zem_codex, #normy_predostavleniya, #my_contacts, #price, .form {
+#zem_codex, #normy_predostavleniya, #my_contacts, #price, .my_form {
   background-color: rgba(243, 253, 129, 0.76);
 }
 
@@ -87,4 +87,18 @@ td, th {
   background-color: rgba(243, 253, 129, 0.76);
   border: none;
   margin-top: 3%;
+}
+
+#zayavlenie {
+  padding: 5%;
+}
+
+#zayavlenie h4 {
+  padding: 3%;
+}
+
+#formButton {
+  background-color: #aeb8ef;
+  color: #1A3A76;
+  border-color: #aeb8ef;
 }

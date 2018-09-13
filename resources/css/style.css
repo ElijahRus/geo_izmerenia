@@ -55,7 +55,7 @@ body {
   padding-top: 5%;
 }
 
-#zem_codex, #normy_predostavleniya, #my_contacts, #price {
+#zem_codex, #normy_predostavleniya, #my_contacts, #price, .form {
   background-color: rgba(243, 253, 129, 0.76);
 }
 

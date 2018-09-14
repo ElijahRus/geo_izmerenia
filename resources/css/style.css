@@ -55,7 +55,7 @@ body {
   padding-top: 5%;
 }
 
-#zem_codex, #normy_predostavleniya, #my_contacts, #price, .my_form {
+#zem_codex, #normy_predostavleniya, #my_contacts, #price, .my_form, #documents {
   background-color: rgba(243, 253, 129, 0.76);
 }
 
@@ -101,4 +101,13 @@ td, th {
   background-color: #aeb8ef;
   color: #1A3A76;
   border-color: #aeb8ef;
+}
+
+.navbar-nav {
+  font-size: 1.1rem;
+}
+
+#documents {
+  padding: 5%;
+  margin-bottom: 5%;
 }

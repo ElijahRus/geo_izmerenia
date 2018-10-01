@@ -83,10 +83,18 @@ td, th {
   text-align: center;
 }
 
+.card-deck {
+  padding: 0 3% 0 3%;
+}
+
 .card {
   background-color: rgba(243, 253, 129, 0.76);
   border: none;
   margin-top: 3%;
+}
+
+.my_card {
+  display: block !important;
 }
 
 #zayavlenie {
